@@ -10,7 +10,7 @@ export default function Nav() {
             class="relative z-10 flex items-center w-auto text-2xl font-extrabold leading-none text-black select-none"
           >
             <div className="flex justify-center">
-              <img src={"/logo1.png"} height={150} width={200} />
+              <img src={"/Logo1.png"} height={150} width={200} />
             </div>
           </a>
 
